@@ -2,7 +2,7 @@
   "name": "atom-tabs-in-sidebar",
   "main": "./lib/atom-tabs-in-sidebar",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Turns Atom's tab bar into a vertical list above the tree view",
   "keywords": [],
   "repository": "https://github.com/atom/atom-tabs-in-sidebar",
   "license": "MIT",
