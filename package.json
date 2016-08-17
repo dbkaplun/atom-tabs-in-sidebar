@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Turns Atom's tab bar into a vertical list above the tree view",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-tabs-in-sidebar",
+  "repository": "https://github.com/dbkaplun/atom-tabs-in-sidebar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
