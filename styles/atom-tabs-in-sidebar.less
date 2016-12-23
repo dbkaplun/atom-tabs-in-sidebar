@@ -5,11 +5,13 @@
 @import "ui-variables";
 
 .tab-bar.vertical {
-  display: block;
-  height: auto;
-  width: 100%;
+  display: block !important;
+  height: auto !important;
+  overflow-x: visible !important;
+  overflow-y: visible !important;
   .tab {
-    display: block;
-    max-width: none;
+    display: block !important;
+    max-width: none !important;
+    width: 100% !important;
   }
 }
